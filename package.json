@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "adm-zip": "^0.4.7",
-    "ajv": "^6.0.1",
+    "ajv": "^6.12.3",
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.2",
     "chalk": "^2.3.0",
