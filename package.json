@@ -32,7 +32,7 @@
     "url": "https://github.com/deepstreamIO/deepstream.io.git"
   },
   "dependencies": {
-    "adm-zip": "^0.4.7",
+    "adm-zip": "^0.5.2",
     "ajv": "^6.0.1",
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.2",
