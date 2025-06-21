@@ -40,7 +40,7 @@
     "commander": "^2.13.0",
     "content-type": "^1.0.4",
     "deepstream.io-service": "^0.1.5",
-    "glob": "^7.1.2",
+    "glob": "^11.0.3",
     "http-shutdown": "^1.2.0",
     "http-status": "^1.0.1",
     "js-yaml": "^3.10.0",
