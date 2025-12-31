@@ -35,7 +35,7 @@
     "adm-zip": "^0.4.7",
     "ajv": "^6.0.1",
     "bluebird": "^3.5.1",
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.4",
     "chalk": "^2.3.0",
     "commander": "^2.13.0",
     "content-type": "^1.0.4",
